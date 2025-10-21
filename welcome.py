@@ -1,0 +1,6 @@
+print("hello to the world!")
+print(6)
+print("good morning \n welcome")
+print("how are you today?",9)
+print(" hi", end= " ")
+print("ahil")
